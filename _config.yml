@@ -1,0 +1,16 @@
+markdown: kramdown
+permalink: /:title/
+url: enblog.xulihang.me
+name: xulihang's blog
+author: xulihang
+qq: 110
+email: xulihanghai@163.com
+duoshuo: xulihang
+beian: 
+51la: 
+weibo: 2794687610
+github: xulihang
+pygments: true
+safe: true
+paginate: 20
+about: "my English blog."
