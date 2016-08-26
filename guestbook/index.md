@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 留言
+title: guestbook
 comments: yes
 thread: 616
 ---
 
-来了，就留下你的足迹吧。
+have your footprints!

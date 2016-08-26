@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-Greeting!
+Greetings!
 
 Paypal:
 
