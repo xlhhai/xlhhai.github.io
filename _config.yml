@@ -1,4 +1,4 @@
-markdown: rouge
+markdown: kramdown
 permalink: /:title/
 url: enblog.xulihang.me
 name: xulihang's blog
@@ -10,7 +10,7 @@ beian:
 51la: 
 weibo: 2794687610
 github: xulihang
-pygments: true
+pygments: 
 safe: true
 paginate: 20
 about: "my English blog."
