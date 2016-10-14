@@ -6,7 +6,7 @@ categories: translation
 tags: E2C
 ---
 
-This article is from [The Verge](http://www.theverge.com/2016/10/12/13251068/walt-mossberg-apple-siri-is-dumb) by Mossberg and I chose it to practice my English to Chinese translation.
+This article is from [The Verge](http://www.theverge.com/2016/10/12/13251068/walt-mossberg-apple-siri-is-dumb) by Mossberg and I chose it to practice my English-to-Chinese translation.
 
 Mossberg: Why does Siri seem so dumb?
 
