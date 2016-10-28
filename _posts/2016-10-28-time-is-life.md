@@ -112,4 +112,4 @@ To young friends: Keep exercising. It's not just about fun and is not wasting ti
 
 健康的身体是作人做事的真正的本钱。
 
-A healthy body is the foundation of <del>working</del> ** a successful life and career**.
+A healthy body is the foundation of <del>working</del> **a successful life and career**.
