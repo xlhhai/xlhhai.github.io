@@ -80,7 +80,7 @@ If one starts to learn Yijing, which is The Book of Changes, he can have no big 
 
 史书也很重要，我出国留学的时候，我父亲买了一套同文石印的前四史，塞满了我的行箧的一半空间，我在国外混了几年之后又把前四史原封带回来了。
 
-History books are also important. When I went to study abroad, my father bought me a set of history books, which are the first four of the 24 Chinese history books. The books are lithographically printed by Tongwen Publishing house. They filled half of my luggage while **several years later, ** I just took them back <del>after several years abroad</del> without reading them. 
+History books are also important. When I went to study abroad, my father bought me a set of history books, which are the first four of the 24 Chinese history books. The books are lithographically printed by Tongwen Publishing house. They filled half of my luggage while **several years later,** I just took them back <del>after several years abroad</del> without reading them. 
 
 直到四十年后才鼓起勇气读了“通鉴”一遍。
 
