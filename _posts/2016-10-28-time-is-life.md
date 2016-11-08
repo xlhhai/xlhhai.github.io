@@ -96,7 +96,7 @@ Whatever you do, it is fundamental to be healthy.
 
 我在学校读书的时候，有所谓的“强迫运动”，我踢破过几双球鞋，打断过几只球拍。
 
-During my school time, there were so-called "compulsory exercise". I worn out several pairs of sneakers and broke several rackets.
+During my school time, there was so-called "compulsory exercise". I wore out several pairs of sneakers and broke several rackets.
 
 因此侥幸维持下来最低限度的体力。
 
