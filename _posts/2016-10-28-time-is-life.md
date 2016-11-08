@@ -44,7 +44,7 @@ I was asked what I did **with** most of the time. I started to reflect and found
 
 我应该集中精力，读我所未读过的书，我应该利用所有时间，写我所要写的东西。
 
-I should focus myself on reading the books I have never read and spend every minutes on writing what I am supposed to write.
+I should focus myself on reading the books I have never read and spend every minute in writing what I am supposed to write.
 
 但是我没能这样做，我的好多时间都稀里糊涂的混过去了，“少壮不努力，老大徒伤悲。”
 
@@ -88,7 +88,7 @@ It was **not** until 40 years later did I have the courage to go through one his
 
 现在我要读的书太多了，深感时间有限。
 
-Now I have to read too many book and I feel deeply that time is limited.
+Now I have to read too many books and I feel deeply that time is limited.
 
 无论做什么事，健康的身体是基本条件。
 
