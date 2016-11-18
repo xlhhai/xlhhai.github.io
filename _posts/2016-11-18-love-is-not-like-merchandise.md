@@ -16,7 +16,7 @@ A reader in Florida, apparently bruised by some personal experience, writes in t
 
 This is a prevalent misconception in many people's minds—that love, like merchandise, can be "stolen". Numerous states, in fact, have enacted laws allowing damages for "alienation of affections".
 
-这是在很多人心中存在的一种错误的观点，认为爱情就像商品，可以被“偷走”。事实上，许多州已经实施了容忍使他人出轨这样的行为的法律。
+这是在很多人心中存在的一种错误的观点，认为爱情就像商品，可以被“偷走”。事实上，许多州已经实施了<del>容忍使他人出轨这样的行为的法律</del>**允许因爱人出轨而得到赔偿金的法律。**。
 
 But love is not a commodity; the real thing cannot be bought, sold, traded or stolen. It is an act of the will, a turning of the emotions, a change in the climate of the personality.
 
@@ -32,7 +32,7 @@ We tend to treat persons like goods. We even speak of the children "belonging" t
 
 Most of us, when young, had the experience of a sweetheart being taken from us by somebody more attractive and more appealing. At the time, we may have resented this intruder—but as we grew older, we recognized that the sweetheart had never been ours to begin with. It was not the intruder that "caused" the break, but the lack of a real relationship.
 
-我们中的大多数人年轻时都经历过恋人喜欢上另一个比我们更加有魅力的人的事情。这时，我们会憎恶这位第三者。但当我们逐渐成熟，我们认识到，我们喜欢的人一开始就不属于我们。不是第三者造成的分手，而是因为没有真正的感情。
+我们中的大多数人年轻时都经历过恋人<del>喜欢上</del>**被**另一个比我们更加有魅力的人**夺去**的事情。这时，我们会憎恶这位第三者。但当我们逐渐成熟，我们认识到，我们喜欢的人一开始就不属于我们。不是第三者造成的分手，而是因为没有真正的感情。
 
 On the surface, many marriages seem to break up because of a "third party". This is, however, a psychological illusion. The other woman or the other man merely serves as a pretext for dissolving a marriage that had already lost its essential integrity.
 
@@ -40,8 +40,8 @@ On the surface, many marriages seem to break up because of a "third party". This
 
 Nothing is more futile and more self-defeating than the bitterness of spurned love, the vengeful feeling that someone else has "come between" oneself and a beloved. This is always a distortion of reality, for people are not the captives or victims of others—they are free agents, working out their own destinies for good or for ill.
 
-爱情被践踏后，心中凄苦，愤恨那个来到自己和爱人中间的人。但这其实是没有意义的。这一直是一种扭曲的现实。人不是其它人的俘虏或受害者，他们是自由的个体，决定自己的命运，不管是好还是坏。
+爱情被践踏后，心中凄苦，愤恨那个来到自己和爱人中间的人。但这其实是没有意义的。这一直是一种对现实的扭曲。人不是其它人的俘虏或受害者，他们是自由的个体，决定自己的命运，不管是好还是坏。
 
-But the rejected lover or mate cannot afford to believe that his beloved has freely turned away from him— and so he ascribes sinister or magical properties to the interloper. He calls him a hypnotist or a thief or a home-breaker. In the vast majority of cases, however, when a home is broken, the breaking has begun long before any "third party" has appeared on the scene.
+But the rejected lover or mate cannot afford to believe that his beloved has freely turned away from him and so he ascribes sinister or magical properties to the interloper. He calls him a hypnotist or a thief or a home-breaker. In the vast majority of cases, however, when a home is broken, the breaking has begun long before any "third party" has appeared on the scene.
 
 但被抛弃了的恋人或伴侣不能相信是他喜欢的人主动选择离开他。因此他把一切都归咎于第三者。他称第三者为催眠师，小偷或拆散家庭的人。但是大多数关系破裂了的家庭，在第三方介入之前，其实就已经出现了裂痕。
