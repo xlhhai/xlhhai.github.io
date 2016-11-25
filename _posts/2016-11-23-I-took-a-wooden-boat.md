@@ -16,8 +16,8 @@ tags: C2E
 
 From Chongqing to Hankou, I took a wooden boat. 
 
-木船危险，当然知道
-。
+木船危险，当然知道。
+
 Of course, I knew that wooden boat was dangerous. 
 
 一路上数不清的滩，礁石随处都是，要出事，随时可以出。
@@ -35,7 +35,7 @@ If someone meets them, they would deprive him of everything including his wearin
 
 但是，回转来想，从前没有轮船，没有飞机，历来走川江的人都坐木船。
 
-But in old days, there was no  steamboat nor airplane. Every traveller had to take a wooden boat down the Chuan River. 
+But in old days, there was no steamboat nor airplane. Every traveller had to take a wooden boat down the Chuan River. 
 
 就是如今，上上下下的还有许多人在那里坐木船，如果统计起来，人数该比坐轮船坐飞机的多。
 
@@ -59,12 +59,11 @@ Are steamboats and planes not dangerous?
 
 安步当车似乎最稳妥了，可是人家屋檐边也可以掉下一张瓦片来。
 
-It seems that walking is the safest way. But it is possible that a piece of tile falls on a passer-by. 
+It seems that walking is the safest. But it is possible that a piece of tile falls on a passer-by. 
 
 要绝对避免危险就莫要做人。
 
 There is no absolute safety being a person. 
-
 
 要坐轮船坐飞机，自然也有办法。
 
@@ -76,11 +75,11 @@ as long as you beg relevant people, use some connections or just buy a ticket fr
 
 先说黑票，且不谈付出超过定额的钱，力有不及，心有不甘，单单一个“黑”字，就叫你不愿领教。
 
-Let's first talk about the "illegal" ticket. I will not do a illegal thing let alone spend extra money on it. I don't have much money and I am not willing to pay for it. 
+Let's first talk about the "illegal" ticket. I will not spend extra money on it as I don't have much money and I am not willing to pay for it let alone it is illegal. 
 
 “黑”字表示作弊，表示越出常轨。
 
-Illegality means cheating and overpass rules' restraints. 
+Illegality means cheating and overpassing rules' restraints. 
 
 你买黑票，无异同作弊，赞助越出常轨。
 
@@ -90,14 +89,13 @@ If you buy such a ticket, it is the same as cheating and sponsoring illegal beha
 
 I cannot improve the social ethos but at least, I should not make negative contirbutions. I can avoid doing illegal things. Of course, this is my personal view as a Chinese scholar.  Sophisticated people can just laugh at me. 
 
-
 再说请托找关系，听人家说他们的经验，简直与谋差使一样的麻烦。
 
 Then, let's talk about connections. Listening to others talking about their experience is as troubling as finding a job. 
 
 在传达室恭候，在会客室恭候，幸而见了那要见的人，他听说你要设法买船票，或是飞机票，爱理不理的答复你说，“困难呢……
 
-Ather waiting at the lodge and at the reception room for a long time, you will meet that man you want to meet. After hearing that you want to buy a steamboat ticket or a plane ticket, he just said in a cold manner,"It's no easy. 
+Ather waiting at the lodge and at the reception room for a long time, you will meet that man you want to meet. After hearing that you want to buy a steamboat ticket or a plane ticket, he just said in a cold manner,"It's not easy. 
 
 下个星期再来打听吧……”
 
@@ -109,11 +107,11 @@ Then, seeing a sliver of hope while not confident, you wait until the next week 
 
 跑了不知多少趟，总算有眉目了，又得往这一处签字，那一处盖章，看种种的脸色，候种种的传唤，为的是得一份充分的证据，可以去换张票子。
 
-After visiting for many times, you are supposed to get a ticket. But you still have to sign at some place and stamp at another place, putting up with all kinds of complexions and orders, all for a piece of evidence to exchange for a ticket. 
+After visiting for many times, you are supposed to get a ticket. But you still have to sign at some place and stamp at another place, putting up with all kinds of faces and orders, all for a piece of evidence to exchange for a ticket. 
 
 票子到手，身分可以改变了，什么机关的部属，什么长的秘书，什么人的本人或是父亲，或者姓名仍旧，或者必须改名换姓，总之要与你自己暂时脱离关系。
 
-The ticket is finally got. But the identity should be changed to some instition's staff or some chairman's secretary or somebody or somebody's father. You can keep your name or you must change your name. Anyway, you have to disown yourself for a while. 
+The ticket is finally got. But the identity should be changed to some institution's staff or some chairman's secretary or somebody or somebody's father. You can keep your name or you must change your name. Anyway, you have to disown yourself for a while. 
 
 最有味的是冒充什么部的士兵，非但改名换姓，还得穿上灰布棉军服，腰间束条皮带。
 
@@ -125,7 +123,7 @@ Having heard this, I decided not to use connections.
 
 即使饿得要死，也不定要去奉承颜色谋差使，为了一张票子去求教人家，不说我自己犯不着，人家也太费心。
 
-Even if I starve to death, I don't have to flatter and beg others for a ticket. I don't have to do this and they can be free from trouble. 
+Even if I starve to death, I don't have to flatter and beg others for a ticket. I don't have to do this and they can also be free from trouble. 
 
 重庆的路又那么难走，公共汽车站排队往往等上一个半钟头，天天为了票子去跑，实在吃不消。
 
@@ -137,11 +135,11 @@ As for pretending to be others, although they don't cherish their reputation, I 
 
 我不是部属，不是秘书，不是某人，不是某人的父亲，我是我。
 
-I am not some instition's staff, nor secrertary or somebody else or somebody else's father. I am I. 
+I am not some institution's staff, or secrertary or somebody else or somebody else's father. I am I. 
 
 我毫无成就，样样不长进，我可不愿与任何人易地而处，无论长期的或是暂时的。
 
-I have few achievements and not good at anything. I do not want to exchange my identity  with any other people, no matter it is long-term or short-term. 
+I have few achievements and not good at anything. I do not want to exchange my identity with any other people, no matter it is long-term or short-term. 
 
 为了走一趟路，必须易地而处，在我总觉着像被剥夺了什么似的。
 
@@ -180,10 +178,9 @@ I think a wooden boat is excellent on this point. I don't have to flatter others
 
 Most of these friends taking the steamboat and the plane cannot do this. But I have such a pride. 
 
-
 决定了之后，有两位朋友特来劝阻，一位从李家沱，一位从柏滨，不怕水程跋涉，为的是关爱我，瞧得起我。
 
-After I decided, two friends came to dissuade me. One was from Lijiatuo and another was from Bobin. Despite of the hard trek, they came to show their concerns for me. They think highly of me. 
+After I decided, two friends came to dissuade me. One was from Lijiatuo and another was from Bobin. Despite the hard trek, they came to show their concerns for me. They think highly of me. 
 
 他们说了种种理由，预想了种种可能的障害，结末说，还是再考虑一下的好。
 
@@ -195,4 +192,4 @@ I did thank them. I am not dare to refuse their suggestion vehemently, and I sai
 
 现在，他们接到我平安到达的消息了，他们也真的安慰了。
 
-Now, as they have received the new that I have arrived safely, they can truly be in a relief. 
+Now, as they have received the news that I have arrived safely, they can truly be in a relief. 
