@@ -18,11 +18,11 @@ From Chongqing to Hankou, I took a wooden boat.
 
 木船危险，当然知道。
 
-Of course, I knew that wooden boat was dangerous. 
+Of course, I knew that **to travel** by wooden boat was dangerous. 
 
 一路上数不清的滩，礁石随处都是，要出事，随时可以出。
 
-The course is full of shoals and rocks. Accidents can happen at any time. 
+The course is full of shoals and rocks**(reefs)**. Accidents can happen at any time. 
 
 还有盗匪——实在是最可怜的同胞，他们种地没得吃，有力气没处出卖，当了兵经常饿肚皮，无可奈何只好出此下策。
 
@@ -30,12 +30,12 @@ There are also bandits who are the poorest fellows as they cannot farm to feed t
 
 ——假如遇见了，把铺盖或者身上衣服带下去，也是异常难处的事儿
 
-If someone meets them, they would deprive him of everything including his wearings. It would be a big trouble. 
+If someone meets them, they would <del>deprive</del>rob him of everything including his wearings. It would be a big trouble. 
 
 
 但是，回转来想，从前没有轮船，没有飞机，历来走川江的人都坐木船。
 
-But in old days, there was no steamboat nor airplane. Every traveller had to take a wooden boat down the Chuan River. 
+But in old days, there was no steamboat nor airplane. Every traveller had to take a wooden boat **up and** down the Chuan River. 
 
 就是如今，上上下下的还有许多人在那里坐木船，如果统计起来，人数该比坐轮船坐飞机的多。
 
@@ -59,7 +59,7 @@ Are steamboats and planes not dangerous?
 
 安步当车似乎最稳妥了，可是人家屋檐边也可以掉下一张瓦片来。
 
-It seems that walking is the safest. But it is possible that a piece of tile falls on a passer-by. 
+It seems that walking is the safest. But it is possible that a piece of tile falls on a passer-by **off the eaves of someone's house**. 
 
 要绝对避免危险就莫要做人。
 
@@ -87,15 +87,15 @@ If you buy such a ticket, it is the same as cheating and sponsoring illegal beha
 
 一个人既不能独立转移风气，也该在消极方面有所自守，邦同作弊，赞助越出常轨的事儿，总可以免了吧，——这自然是书生之见，不免通达的人一笑。
 
-I cannot improve the social ethos but at least, I should not make negative contirbutions. I can avoid doing illegal things. Of course, this is my personal view as a Chinese scholar.  Sophisticated people can just laugh at me. 
+I cannot improve the social ethos but at least, I should not make negative contirbutions. I can avoid doing illegal things. Of course, this is my <del>personal</del>**pedantic** view as a Chinese scholar.  Sophisticated people can just laugh at me. 
 
 再说请托找关系，听人家说他们的经验，简直与谋差使一样的麻烦。
 
-Then, let's talk about connections. Listening to others talking about their experience is as troubling as finding a job. 
+Then, let's talk about connections. <del>Listening to</del> Others <del>talking about</del> say that their experience is as troubling as finding a job. 
 
 在传达室恭候，在会客室恭候，幸而见了那要见的人，他听说你要设法买船票，或是飞机票，爱理不理的答复你说，“困难呢……
 
-Ather waiting at the lodge and at the reception room for a long time, you will meet that man you want to meet. After hearing that you want to buy a steamboat ticket or a plane ticket, he just said in a cold manner,"It's not easy. 
+Ather waiting at the lodge and at the reception room for a long time, you will meet that man you want to meet. <del>After</del> Hearing that you want to buy a steamboat ticket or a plane ticket, he just replied in a cold manner,"It's not easy. 
 
 下个星期再来打听吧……”
 
@@ -119,11 +119,11 @@ The most interesting is that if you are going to pretend to be a soilder, you no
 
 我听了这些，就死了请托找关系的念头。
 
-Having heard this, I decided not to use connections. 
+Having heard these, I decided not to use connections. 
 
 即使饿得要死，也不定要去奉承颜色谋差使，为了一张票子去求教人家，不说我自己犯不着，人家也太费心。
 
-Even if I starve to death, I don't have to flatter and beg others for a ticket. I don't have to do this and they can also be free from trouble. 
+Even if I starve to death, I don't have to flatter and beg others for **a job, let alone** a ticket. I don't have to do this and they can also be free from trouble. 
 
 重庆的路又那么难走，公共汽车站排队往往等上一个半钟头，天天为了票子去跑，实在吃不消。
 
@@ -135,7 +135,7 @@ As for pretending to be others, although they don't cherish their reputation, I 
 
 我不是部属，不是秘书，不是某人，不是某人的父亲，我是我。
 
-I am not some institution's staff, or secrertary or somebody else or somebody else's father. I am I. 
+I am not some institution's staff, nor a secrertary nor somebody else nor somebody else's father. I am I. 
 
 我毫无成就，样样不长进，我可不愿与任何人易地而处，无论长期的或是暂时的。
 
@@ -153,10 +153,9 @@ Wearing a grey cotton uniform just for a trip is more difficult for me. It profa
 
 There are a number of people profaning the uniform. But I cannot do it. This is also my view as a scholar. 
 
-
 抱着书生之见，我决定坐木船。
 
-Holding this vew, I decided to take a wooden boat. 
+Holding this view, I decided to take a wooden boat. 
 
 木船比不上轮船，更比不上飞机，千真万确。
 
@@ -168,11 +167,11 @@ But you absolutely don't have to use connections or an illegal ticket.
 
 你要船，找运输行，或者自己到码头上去找，找着了，言明价钱，多少钱坐到汉口，每块钱花得明明白白。
 
-If you want to take a boat, just go to the transport agency or directly go to the dock. You find a boat and make a deal on the price. You know how much it costs form Chongqin to Wuhan and the money is spent in a legal way. 
+If you want to take a boat, just go to the transport agency or directly go to the dock. You find a boat and make a deal on the price. You know how much it costs form Chongqin to Hankou and the money is spent in a legal way. 
 
 在这一点上，我觉得木船好极了，我可以不说一句讨情的话，不看一副难看的嘴脸，堂堂正正的凭我的身分东西归。
 
-I think a wooden boat is excellent on this point. I don't have to flatter others and see other's disgusting face. I take my trip with my own legal identity and properties. 
+I think a wooden boat is excellent on this point**/in this respect**. I don't have to flatter others and see other's disgusting face. I take my trip with my own legal identity and properties. 
 
 这是大多数坐轮船坐飞机的朋友办不到的，我可有这种骄傲。
 
@@ -180,7 +179,7 @@ Most of these friends taking the steamboat and the plane cannot do this. But I h
 
 决定了之后，有两位朋友特来劝阻，一位从李家沱，一位从柏滨，不怕水程跋涉，为的是关爱我，瞧得起我。
 
-After I decided, two friends came to dissuade me. One was from Lijiatuo and another was from Bobin. Despite the hard trek, they came to show their concerns for me. They think highly of me. 
+After I decided, two friends came to dissuade me. One was from Lijiatuo and another was from Baibin. Despite the hard trek, they came to show their concerns for me. They think highly of me. 
 
 他们说了种种理由，预想了种种可能的障害，结末说，还是再考虑一下的好。
 
