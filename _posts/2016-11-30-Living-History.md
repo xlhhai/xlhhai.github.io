@@ -10,7 +10,7 @@ tags: E2C
 
 In 1959, I wrote my autobiography for an assignment in sixth grade. In twenty-nine pages, most half-filled with earnest scrawl, I described my parents, brothers, pets, house, hobbies, school, sports and plans for the future. Forty-two years later, I began writing another memoir, this one about the eight years I spent in the White House living history with Bill Clinton. I quickly realized that I couldn’t explain my life as First Lady without going back to the beginning―how I became the woman I was that first day I walked into the White House on January 20, 1993, to take on a new role and experiences that would test and transform me in unexpected ways. 
 
-在1959年，我六年级的时候，写了一份自传的作业。在二十九页歪歪扭扭的内容中，我认真地写了我的父母、兄弟、宠物、家、爱好、学校、运动和未来的计划。四十二年以后，我开始了新的一份自传的攥写。这部传记是关于我和比尔•克林顿在白宫的真实经历。我迅速意识到，要讲清楚我作为第一夫人的故事，就不得不回到最初的时刻——我是怎么在1993年1月20日进入白宫，成为第一夫人，换上一个新的身份；这样的经历出乎意料地将考验我并改变我。
+在1959年，我六年级的时候，写了一份自传的作业。在二十九页歪歪扭扭的内容中，我认真地写了我的父母、兄弟、宠物、家、爱好、学校、运动和未来的计划。四十二年以后，我开始了新的一份自传的撰写。这部传记是关于我和比尔•克林顿在白宫的真实经历。我迅速意识到，要讲清楚我作为第一夫人的故事，就不得不回到最初的时刻——我是怎么在1993年1月20日进入白宫，成为第一夫人，换上一个新的身份；这样的经历出乎意料地将考验我并改变我。
 
 By the time I crossed the threshold of the White House, I had been shaped by my family upbringing, education, religious faith and all that I had learned before―as the daughter of a staunch conservative father and a more liberal mother, a student activist, an advocate for children, a lawyer, Bill’s wife and Chelsea’s mom. 
 
